@@ -1,0 +1,6 @@
+{
+  "name": "تتبع الصلوات والسنن",
+  "description": "تطبيق متكامل لتتبع أداء الصلوات الخمس والسنن والرواتب اليومية مع نظام نقاط وإحصائيات متقدمة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
